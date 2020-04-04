@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursor-react-homework/static/css/main.050523cc.chunk.css",
+    "main.js": "/cursor-react-homework/static/js/main.7e406ecf.chunk.js",
+    "main.js.map": "/cursor-react-homework/static/js/main.7e406ecf.chunk.js.map",
+    "runtime-main.js": "/cursor-react-homework/static/js/runtime-main.df017a90.js",
+    "runtime-main.js.map": "/cursor-react-homework/static/js/runtime-main.df017a90.js.map",
+    "static/js/2.63073618.chunk.js": "/cursor-react-homework/static/js/2.63073618.chunk.js",
+    "static/js/2.63073618.chunk.js.map": "/cursor-react-homework/static/js/2.63073618.chunk.js.map",
+    "index.html": "/cursor-react-homework/index.html",
+    "precache-manifest.95462e08e2a7f30c17b6b31ddfc5f0db.js": "/cursor-react-homework/precache-manifest.95462e08e2a7f30c17b6b31ddfc5f0db.js",
+    "service-worker.js": "/cursor-react-homework/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/cursor-react-homework/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.63073618.chunk.js.LICENSE.txt": "/cursor-react-homework/static/js/2.63073618.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cursor-react-homework/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df017a90.js",
+    "static/js/2.63073618.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.7e406ecf.chunk.js"
+  ]
+}
